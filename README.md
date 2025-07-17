@@ -7,6 +7,6 @@
 
 ## Languages
 - HTML
-- -CSS
+- CSS
 - JavaScript
 - React
